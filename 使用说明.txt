@@ -1,0 +1,11 @@
+1、项目说明：本项目未使用任何美术资源和unityPackage包，适用于unity大部分版本
+
+2、流程：新建一个工程，保留相机，新建一个空物体，挂载TicTacToe脚本后运行即可
+
+3、代码说明：
+TicTacToe-主逻辑
+TicTacToe.AI-处理AI相关的逻辑
+TicTacToe.ConstString-处理显示文本
+TicTacToe.UI-处理自定义UI生成
+
+
